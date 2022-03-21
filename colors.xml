@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="colorPrimary" type="color">#42C2FF</item>
+    <item name="colorPrimaryVariant" type="color">#85F4FF</item>
+    <item name="colorOnPrimary" type="color">@android:color/black</item>
+    <item name="colorSecondary" type="color">#EFFFFD</item>
+    <item name="colorSecondaryVariant" type="color">#B8FFF9</item>
+    <item name="colorOnSecondary" type="color">@android:color/white</item>
+    <item name="invi" type="color">#00000000</item>
+</resources>
